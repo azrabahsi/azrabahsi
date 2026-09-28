@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9C27B0&center=true&vCenter=true&width=550&lines=Bilgisayar+Mühendisliği+Öğrencisi;Makine+Öğrenmesi+Tutkunu;Veri+Bilimi+Meraklısı;Yazılım+Geliştirici" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Makine+%C3%96%C4%9Frenmesi+Tutkunu;Veri+Bilimi+Merakl%C4%B1s%C4%B1;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici" alt="Typing SVG" />
   </a>
 </div>
 
