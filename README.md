@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20Azra!%20%F0%9F%91%8B&fontSize=55&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20Azra Bahşi!%20%F0%9F%91%8B&fontSize=55&animation=fadeIn&fontAlignY=40" width="100%" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -23,11 +23,7 @@
 
 <br/>
 
-### 📊 GitHub İstatistiklerim
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azrabahsi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrabahsi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
+
 
 <br/>
 
