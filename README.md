@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20Azra Bahşi!%20%F0%9F%91%8B&fontSize=55&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20Azra%20Bah%C5%9Fi!%20%F0%9F%91%8B&fontSize=55&animation=fadeIn&fontAlignY=40" width="100%" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
